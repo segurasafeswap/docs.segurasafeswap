@@ -3,7 +3,7 @@
 ## Segura Mgmt
 
 * [SeguraSafeSwap Intro](README.md)
-  * [User Interface Concept](segura-mgmt/readme/user-interface-concept.md)
+  * [UI / UX](segura-mgmt/readme/ui-ux.md)
   * [Getting Started with SeguraSafeSwap](segura-mgmt/readme/getting-started-with-segurasafeswap.md)
   * [Roadmap](segura-mgmt/readme/roadmap.md)
   * [For Help, Click Here](segura-mgmt/readme/for-help-click-here.md)
