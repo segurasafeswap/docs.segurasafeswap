@@ -16,7 +16,7 @@ Fast forward to 2022, we stand at the precipice of a new era with the completion
 
 In 2023, the Triple SSS Platform springs into action. It's not just about the launch; it's about establishing a robust, dynamic community. We will focus on refining user experience, incorporating feedback, and fostering a secure environment that propels us forward.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### 2024: Expansion Across the Blockchain Spectrum
 
