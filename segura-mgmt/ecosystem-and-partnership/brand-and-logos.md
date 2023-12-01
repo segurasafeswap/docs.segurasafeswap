@@ -51,7 +51,9 @@ Primary Purple: `#6A1B9A` Secondary White: `#FFFFFF`
 
 You can download our full set of brand assets, which includes our logos in various formats, our color palette, and additional branding elements.
 
-[Download Brand Assets](https://chat.openai.com/c/link-to-your-assets)
+Download Brand Assets
+
+{% file src="../../.gitbook/assets/SSS_Token.jpeg" %}
 
 ### Contact Us
 

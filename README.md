@@ -10,7 +10,7 @@ In an era where digital innovation leads the way in transforming industries, Seg
 
 At SeguraSafeSwap, we are driven by the mission to democratize finance. We believe in creating a world where financial inclusivity is not just a goal but a reality. Our platform empowers users by offering a secure, transparent, and user-friendly environment for trading, staking, and managing digital assets.
 
-<figure><img src=".gitbook/assets/SSS_Token.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SSS_Token (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 ### What Sets Us Apart
 
